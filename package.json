@@ -1,0 +1,11 @@
+{
+  "name": "deep-copying",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "ts-node-test **/*.test.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "ts-node-test": "^0.4.3"
+  }
+}
